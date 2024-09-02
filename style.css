@@ -1,0 +1,155 @@
+.mm{
+    height: 600px;
+    width: 100%;
+}
+.kk{
+    font-size: 4rem;
+    font-weight: 700;
+    margin-top: -480px;
+    margin-left: 370px;
+}
+.ll{
+    margin-left: 730px;
+    border: 1px solid black;
+    color: white;
+    background-color: black;
+    padding: 5px 30px;
+    margin-top: 10px;
+}
+.ll:hover{
+    color: black;
+    background-color: white;
+}
+.uu{
+    margin-top: 400px;
+    text-align: center;
+    font-weight: 600;
+    font-size: 3rem;
+    color: rgb(67, 4, 4);
+}
+.uuu{
+    text-align: center;
+    margin-top: 10px;
+    color: grey;
+}
+.nn{
+    width: 300px;
+    height: 400px;
+    display: inline-flex;
+    margin-top: 20px;
+    margin-left: 155px;
+}
+.cc{
+    margin-top: 410px;
+    margin-left: -200px;
+    font-weight: 600;
+    font-size: larger;
+}
+.dd{
+    margin-top: 60px;
+    text-align: center;
+    font-weight: 600;
+    color:rgb(67, 4, 4) ;
+    font-size: 2rem;
+}
+
+.gg{
+    width: 300px;
+    height: 400px;
+    display:inline-flex;
+    margin-left: 65px;
+    background-color:whitesmoke;
+}
+.ii{
+    height: 300px;
+    width: 100%;
+    display: block;
+}
+.ss{
+    margin-top: 320px;
+    margin-left: -200px;
+    font-weight: 600;
+    font-size: larger;
+}
+.sss{
+    margin-top: 360px;
+    margin-left: -100px;
+    font-size: large;
+}
+.vv{
+    margin-top: 50px;
+margin-left: 700px;
+border: 1px solid rgb(255, 230, 0);
+padding: 10px 50px;
+color: rgb(255, 230, 0);
+font-weight: 600;
+}
+.vv:hover{
+    color: white;
+    background-color: rgb(255, 230, 0) ;
+}
+.zz{
+    font-size: 2rem;
+    font-weight: 600;
+    margin-left: 100px;
+
+}.tt{
+    margin-left: 100px;
+    color: grey;
+}
+.x{
+    color: black;
+}
+.bbb{
+    margin-left: 600px;
+    margin-top: -50px;
+    font-weight: 600;
+    display: block;
+    text-decoration:none ;
+    color: black;
+}
+.bbb:hover{
+    color: grey;
+    text-decoration: underline;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+@media (max-width:900px){
+    .kk{
+        font-size: 2rem;
+        margin-left: 25px;
+    }
+    .ll{
+        margin-left: 150px;
+    }
+    .nn{
+        display: flex;
+        margin-left: 85px;
+        margin-top: 40px;
+    }
+    .gg{
+        margin-top: 20px;
+        display: flex;
+    }
+    .vv{
+        margin-left: 100px;
+    }
+    .bbb{
+        display: inline;
+        margin-left: 50px;
+
+    }
+}
